@@ -1,0 +1,6 @@
+{
+    "port": "COM4",
+    "baudrate": 9600,
+    "stopbits": 1,
+    "parity": "N"
+}
